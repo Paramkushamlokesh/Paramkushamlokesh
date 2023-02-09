@@ -2,10 +2,15 @@
 <h1 align="center">Hi 👋, I'm LokeshParamkusham</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paramkushamlokesh" alt="paramkushamlokesh" /></a> </p>
+<img align="right" width="400" src="https://camo.githubusercontent.com/7126894c136cfcea2ead9679838b0ca5b8bf50f64c0b76dc0e69e75d9fc57314/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f68656c6c6f2e676966"/>
 
-- 📫 How to reach me `paramkushamlokesh@gmail.com`
+- 🌱 I’m currently learning **SpringSecurity**
+
 - 👨‍💻 All of my projects are available at [porfolio](https://paramkushamlokesh.github.io/)
+- 📫 How to reach me `paramkushamlokesh@gmail.com`
+- 💬 Ask me about **Sprintboot,Java,DSA.**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oQC3ZtMhvuVo9Lqhd4Do9p-G1-t70QOQ/view?usp=sharing)
+- ⚡ Fun fact **Coding can create art, music, games, and websites.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paramkushamlokesh&show_icons=true&locale=en" alt="paramkushamlokesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramkushamlokesh&" alt="paramkushamlokesh" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paramkushamlokesh" alt="paramkushamlokesh" /></a> </p>
 <!--
 **Paramkushamlokesh/Paramkushamlokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
